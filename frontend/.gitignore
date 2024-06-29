@@ -9,13 +9,7 @@ lerna-debug.log*
 
 node_modules
 
-public
-src
-.eslintrc.cjs
-package.json
-package-lock.json
-vite.config.js
-README.md
+dist
 
 
 # Editor directories and files
